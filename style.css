@@ -1,0 +1,66 @@
+#box>img{
+    width: 100%;
+}
+#box{
+    display: inline-block;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    min-width: 250px;
+    max-width: 250px;
+    align-items: center;
+    height: 370px;
+}
+#box>h1{
+    text-align: left;
+}
+#box>button{
+    border: none;
+    color: blue;
+    background-color: lightblue;
+    width:90%;
+    margin: auto;
+    padding: 0.5em 7em;
+}
+#circle>img{
+    width: 100%;
+}
+#circle{
+    display: inline-block;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    min-width: 250px;
+    max-width: 250px;
+    align-self: center;
+    height:370px;
+}
+#circle>h1{
+    text-align: left;
+}
+#circle>button{
+    border: none;
+    color: blue;
+    background-color: lightblue;
+    width:90%;
+    margin: auto;
+    padding: 0.5em 0.7em;
+}
+#sqare>img{
+    width: 100%;
+}
+#sqare{
+    display: inline-block;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    min-width: 250px;
+    max-width: 250px;
+    align-self: center;
+    height: 370px;
+}
+#sqare>h1{
+    text-align: left;
+}
+#sqare>button{
+    border: none;
+    color: blue;
+    background-color: lightblue;
+    width:90%;
+    margin: auto;
+    padding: 0.5em 0.7em;
+}
